@@ -1,5 +1,5 @@
 [core]
     remote = origin
 ['remote "origin"']
-    url = https://dagshub.com/<utilisateur-dagshub>/<depot-dagshub>.dvc
+    url = https://dagshub.com/AnouaarNaifar/mlops_transactions_frauduleuses.dvc
     auth = basic
